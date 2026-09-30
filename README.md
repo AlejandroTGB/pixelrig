@@ -2,7 +2,7 @@
 
 API REST para la administración de componentes de PC. La identidad de los usuarios está delegada a **Amazon Cognito** (OAuth2 / OIDC) y la autorización se resuelve por **roles**, representados como grupos dentro del User Pool.
 
-Actividad Sumativa N.º 1 — Desarrollo Cloud Native, Duoc UC. El cliente React se mantiene en un repositorio aparte.
+Actividad Sumativa N.º 1 — Desarrollo Cloud Native, Duoc UC.
 
 ## Stack
 
